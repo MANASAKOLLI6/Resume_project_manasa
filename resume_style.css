@@ -207,7 +207,7 @@ section:target{
     top:9px;
     display:inline-block;
     background-size:contain;
-    background-image:url(w-logo.png);
+    background-image:url(w-logo.jpg);
     height:40px;
     width:40px;
     background-repeat: no-repeat;
@@ -245,7 +245,7 @@ section:target{
     top:70px;
     display:inline-block;
     background-size:contain;
-    background-image:url(aprs-logo.jpg);
+    background-image:url(aprs-logo.png);
     height:100px;
     width:80px;
     background-repeat: no-repeat;
